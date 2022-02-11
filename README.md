@@ -1,6 +1,8 @@
 # project3
 UNCC FinTech Boot Camp Project 3 (Stock grader) 
 
+launch by using git bash to change directories into the correct folder
+enter "streamlit run P3_streamlit.py" 
 
 ## Imports 
 
@@ -23,14 +25,19 @@ Giselle Taraboletti
 
 ## Images of Streamlit App 
 
+Beginning State: 
 ![streamlit screenshot 1](https://user-images.githubusercontent.com/89159824/153523573-e80b8461-8efc-4ac9-b5c5-ac8dd1147b44.png)
 
+Stock Information: 
 ![streamlit screenshot 2](https://user-images.githubusercontent.com/89159824/153523579-e7d2b2dc-01b8-4c6a-b597-d6bb05b8d880.png)
 
+Monte Carlo Loading: 
 ![streamlit screenshot 3 loading bar](https://user-images.githubusercontent.com/89159824/153523582-11cc153e-10a3-4889-8ab4-6928426547dd.png)
 
+Monte Carlo Results: 
 ![streamlit screenshot 4](https://user-images.githubusercontent.com/89159824/153523591-351222da-9595-434b-b1b4-bb52a72b32ca.png)
 
+Error message when user enters invalid ticker: 
 ![streamlit screenshot 5 invalid ticker](https://user-images.githubusercontent.com/89159824/153523600-ddff2c50-9230-480e-98ea-4ce27b487b4c.png)
 
 ## License ##
